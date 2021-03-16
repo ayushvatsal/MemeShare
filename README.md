@@ -4,7 +4,9 @@ MemeShare is an android app based on kotlin which fetches  differernt meme every
 <br>
 # Overview
 
-<img src="https://raw.githubusercontent.com/ayushvatsal/MemeShare/master/demo-image/demo.gif" width="40%"/>
+<div align = "center">
+<img  src="https://raw.githubusercontent.com/ayushvatsal/MemeShare/master/demo-image/demo.gif" height="450"/>
+</div>
 <br>
 <br>
 <br>
